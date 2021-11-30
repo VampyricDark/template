@@ -18,4 +18,4 @@ This theme maintained by:
 
 ## License
 
-Distributed under `MIT` License. See LICENSE for more information.
+Distributed under MIT License. See `LICENSE` for more information.
